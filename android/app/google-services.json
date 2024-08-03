@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402706561765",
+    "project_id": "tasty-bites-13fe6",
+    "storage_bucket": "tasty-bites-13fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402706561765:android:1805b02957e56d0901b20c",
+        "android_client_info": {
+          "package_name": "com.example.foodie_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402706561765-i48euo4487dl7j9n5grhr2tn0gohifq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodie_partner",
+            "certificate_hash": "a68889e96c01065b1d50bedee3365d97461d59f7"
+          }
+        },
+        {
+          "client_id": "402706561765-0pq5bkffp3qpk3s2fe7kr54k3dq84jjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5e57pU-2G5YkV_P6Ht8yJ-Ax9oIEVnbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402706561765-0pq5bkffp3qpk3s2fe7kr54k3dq84jjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
